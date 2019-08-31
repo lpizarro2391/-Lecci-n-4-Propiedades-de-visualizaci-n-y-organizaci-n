@@ -10,6 +10,10 @@ header h1{
 	padding-left: 10px;
 	padding: 3px 10px;
 margin-bottom: 5px;
+background: -webkit-linear-gradient(left, #5CA861 , #BADFBC); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #5CA861 , #BADFBC); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #5CA861 , #BADFBC); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #5CA861 , #BADFBC); /* Standard syntax */
 }
 
 #menu-principal ul {
