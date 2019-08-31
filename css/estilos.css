@@ -34,6 +34,7 @@ background: -webkit-linear-gradient(left, #5CA861 , #BADFBC); /* For Safari 5.1 
 	margin-left: 200px;
 	padding: 10px;
 	color: black;
+	border-radius: 6px;
 }
 
 footer {
