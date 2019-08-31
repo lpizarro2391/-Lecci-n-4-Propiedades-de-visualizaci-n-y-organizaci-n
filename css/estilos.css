@@ -30,6 +30,7 @@ background: -webkit-linear-gradient(left, #5CA861 , #BADFBC); /* For Safari 5.1 
 }
 
 #contenido {
+	background-image: url(../imagenes/imagen3.jpg);
 	margin-left: 200px;
 	padding: 10px;
 	color: black;
